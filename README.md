@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js, Data Structures & Algorithms**
 
-- 💬 Ask me about **React Native, React.js, Next.js, Express.js,Mobile App Development, Web Development**
+- 💬 Ask me about **React Native, React.js, Next.js, Express.js, Mobile App Development, Web Development**
 
 - 📫 How to reach me **bt22cs006@nitmz.ac.in**
 
