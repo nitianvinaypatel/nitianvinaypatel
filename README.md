@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinaypatelnitmz" target="blank"><img src="https://img.shields.io/twitter/follow/vinaypatelnitmz?logo=twitter&style=for-the-badge" alt="vinaypatelnitmz" /></a> </p>
 
-- 🔭 I’m currently working as a Software Developer Intern in the Project Funded By Technology Innovation Hub IIT BHILAI at NIT Mizoram. [An Economic Optimization Platform for the Public Transport System of Mizoram](https://www.nitmz.ac.in/uploaded_files/Advertisement_for_IIT_Bhillai.pdf)
+- 🔭 I’m currently working as a Software Developer Intern in the Project Funded By TIH IIT BHILAI at NIT Mizoram. [An Economic Optimization Platform for the Public Transport System of Mizoram](https://www.nitmz.ac.in/uploaded_files/Advertisement_for_IIT_Bhillai.pdf)
 
 - 🌱 I’m currently learning **Next,js**
 
