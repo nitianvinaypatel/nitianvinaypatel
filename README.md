@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a Software Developer Intern in the Project Funded By TIH IIT BHILAI at NIT Mizoram. [An Economic Optimization Platform for the Public Transport System of Mizoram](https://www.nitmz.ac.in/uploaded_files/Advertisement_for_IIT_Bhillai.pdf)
 
-- 🌱 I’m currently learning **Next.js, Data Structures & Algorithms **
+- 🌱 I’m currently learning **Next.js, Data Structures & Algorithms**
 
 - 💬 Ask me about **React Native, React.js, Next.js, Express.js,Mobile App Development, Web Development**
 
